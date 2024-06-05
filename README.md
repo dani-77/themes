@@ -1,37 +1,37 @@
-Collection of themes:
-====================
+# Collection of themes:
 
-# Grub
 
-Dell, Dracula, HP, Legion; Lenovo, Libretrend, Sony, Stylish, Tela, Vaio, Vimix and Whitesur
+## Grub
 
-# Slim
+Dell, Dracula, HP, Legion, Lenovo, Libretrend, Sony, Stylish, Tela, Vaio, Vimix and Whitesur
 
-Bluer, Boxy, Bridge, Cayny, Crux-Smooth, Darksome, Darky Pink, Default, Desky, Faded City, Flat, Flat Green, Greeny, Greeny Dark, Hello, Light Red, Material, Micro, Milk, Milkyway, Minimal, Original, Overlay, Panda, Pinker, Pot, Slim Void, Sweet Flat, Typogin, Wavy, White and Workspace.
+## Slim
 
-# Tint2
+Bluer, Boxy, Bridge, Cayny, **Crux-Smooth**, Darksome, Darky Pink, Default, Desky, Faded City, Flat, Flat Green, Greeny, **Greeny Dark**, Hello, Light Red, Material, **Micro**, Milk, Milkyway, Minimal, Original, Overlay, Panda, Pinker, Pot, **Slim Void**, Sweet Flat, Typogin, Wavy, White and Workspace.
+		
+## Tint2
 
 Arc theme and Dracula theme.
 
-# Window managers
+## Window managers
 
-## Fluxbox
+### Fluxbox
 
 Arc Dark
 
-## IceWM
+### IceWM
 
 Arc Dark, Blue Day and Dracula
 
-## OpenBox
+### OpenBox
 
 Arc and Dracula
 
-## PekWM
+### PekWM
 
 Greybird
 
-# Dracula
+## Dracula
 
 Dunst, GTK, mc, ncspot, Ranger, Rofi, Vim, Xresources, Zathura, zsh
 
