@@ -35,3 +35,6 @@ Greybird
 
 Dunst, GTK, mc, ncspot, Ranger, Rofi, Vim, Xresources, Zathura, zsh
 
+*italic* - made by me
+
+**bold** - preferred by me
