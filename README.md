@@ -3,7 +3,7 @@
 
 ## Grub
 
-Dell, Dracula, HP, Legion, Lenovo, *Libretrend*, *Sony*, Stylish, Tela, Vaio, Vimix and Whitesur
+Dell, Dracula, HP, Legion, Lenovo, *Libretrend*, Poly-Dark,  *Sony*, Stylish, Tela, Vaio, Vimix and Whitesur
 
 ## Slim
 
