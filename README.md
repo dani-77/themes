@@ -9,6 +9,10 @@ Dell, Dracula, HP, Legion, Lenovo, *Libretrend*, Poly-Dark,  *Sony*, Stylish, Te
 
 Archlinux, Bluer, Boxy, Bridge, Cayny, **Crux-Smooth**, Darksome, Darky Pink, Deabian moreblue, Default, Desky, Faded City, Flat, Flat Green, Greeny, **Greeny Dark**, Hello, Light Red, Material, **Micro**, Milk, Milkyway, Minimal, Original, Overlay, Panda, Pinker, Pot, **Slim Void**, Sweet Flat, Typogin, Wavy, White and Workspace.
 		
+## SDDM
+
+slice theme
+
 ## Tint2
 
 Arc theme and Dracula theme.
@@ -33,7 +37,7 @@ Greybird
 
 ## Dracula
 
-Dunst, GTK, mc, ncspot, Ranger, Rofi, Vim, Xresources, Zathura, zsh
+Dunst, GTK, mc, ncspot, Ranger, Rofi, Vim, Waybar, Xresources, Zathura, zsh
 
 *italic* - made by me
 
