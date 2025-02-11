@@ -39,6 +39,10 @@ Greybird
 
 Dunst, GTK, mc, ncspot, Ranger, Rofi, Vim, Waybar, Xresources, Zathura, zsh
 
+## Bunsen Labs
+
+Openbox collection of themes. (suitable for labwc as well)
+
 *italic* - made by me
 
 **bold** - preferred by me
